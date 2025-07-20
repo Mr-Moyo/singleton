@@ -1,0 +1,14 @@
+C:\Users\EXAZE TRSA23\singleton\bin\Debug\net8.0\singleton.exe
+C:\Users\EXAZE TRSA23\singleton\bin\Debug\net8.0\singleton.deps.json
+C:\Users\EXAZE TRSA23\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+C:\Users\EXAZE TRSA23\singleton\bin\Debug\net8.0\singleton.dll
+C:\Users\EXAZE TRSA23\singleton\bin\Debug\net8.0\singleton.pdb
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.dll
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\refint\singleton.dll
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.pdb
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+C:\Users\EXAZE TRSA23\singleton\obj\Debug\net8.0\ref\singleton.dll
